@@ -4,7 +4,6 @@ public class CreateArray {
 
 // ЗАПОЛНЯЕМ ДВУМЕРНЫЙ МАССИВ И ВЫВОДИМ ЕГО НА ЭКРАН
         public static void main(String[] args) {
-
             int[][] myArray = new int[100][200];
             for (int i = 0; i < 100; i++) {
                 for (int j = 1; j < 200; j++) {

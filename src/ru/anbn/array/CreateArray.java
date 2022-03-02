@@ -2,6 +2,7 @@ package ru.anbn.array;
 
 public class CreateArray {
 
+    
 // ЗАПОЛНЯЕМ ДВУМЕРНЫЙ МАССИВ И ВЫВОДИМ ЕГО НА ЭКРАН
         public static void main(String[] args) {
             int[][] myArray = new int[100][200];

@@ -2,7 +2,6 @@ package ru.anbn.array;
 
 public class CreateArray {
 
-
     // ЗАПОЛНЯЕМ ДВУМЕРНЫЙ МАССИВ И ВЫВОДИМ ЕГО НА ЭКРАН
     public static void main(String[] args) {
         int[][] myArray = new int[100][200];
@@ -29,14 +28,11 @@ public class CreateArray {
                 System.out.print("Symbol[" + i + "][" + j + "]" + "=" + myArray + "  ");
             }
         }
-
-        System.out.println("Comment for commit.----------------");
-
+        System.out.println("It's a good commit!");
     }
 
-    void textPrint() {
-        System.out.println("Third test");
+    static void printText() {
+        int i = 4;
     }
-
 
 }

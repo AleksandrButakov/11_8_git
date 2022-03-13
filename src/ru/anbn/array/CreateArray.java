@@ -31,4 +31,8 @@ public class CreateArray {
         System.out.println("It's a good commit!");
     }
 
+    void printTextMethod() {
+        
+    }
+
 }

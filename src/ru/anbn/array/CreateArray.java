@@ -34,5 +34,9 @@ public class CreateArray {
 
     }
 
+    void textPrint() {
+        System.out.println("Third test");
+    }
+
 
 }

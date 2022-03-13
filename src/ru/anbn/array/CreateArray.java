@@ -31,8 +31,4 @@ public class CreateArray {
         System.out.println("It's a good commit!");
     }
 
-    static void printText() {
-        int i = 4;
-    }
-
 }

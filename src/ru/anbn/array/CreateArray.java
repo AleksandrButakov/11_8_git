@@ -34,5 +34,9 @@ public class CreateArray {
 
     }
 
+    static void printText() {
+        int i = 4;
+    }
+
 
 }

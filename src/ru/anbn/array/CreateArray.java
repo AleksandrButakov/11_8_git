@@ -32,7 +32,7 @@ public class CreateArray {
     }
 
     void printTextMethod() {
-        
+        System.out.println("printTextMethod");
     }
 
 }

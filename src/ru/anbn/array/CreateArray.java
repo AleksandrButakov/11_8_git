@@ -38,4 +38,8 @@ public class CreateArray {
         }
     }
 
+    void methodForMerge() {
+        System.out.println("test method");
+    }
+
 }

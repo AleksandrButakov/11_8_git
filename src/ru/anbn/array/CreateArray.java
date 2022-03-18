@@ -38,8 +38,8 @@ public class CreateArray {
         }
     }
 
-    void methodForMerge() {
-        System.out.println("test method");
+    void addedMethod() {
+        System.out.println("Method for git");
     }
 
 }

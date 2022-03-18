@@ -38,4 +38,8 @@ public class CreateArray {
         }
     }
 
+    void addedMethod() {
+        System.out.println("Method for git");
+    }
+
 }
